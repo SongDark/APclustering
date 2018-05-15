@@ -8,6 +8,11 @@ Realization on affinity propagation (AP) clustering. Codes are as follows.
 - `sklearn_apply/AP_feed_data.py` : My realization using sklearn API, with raw data fed.
 - `sklearn_apply/AP_feed_similarity.py` : My realization using sklearn API, with similarity matrix fed.
 
+## Result
+
+<img src="https://github.com/SongDark/APclustering/blob/master/pictures/AP_feed_data.png?raw=true">
+
+
 ## Reference:
 
 - Brendan J. Frey and Delbert Dueck, "Clustering by Passing Messages
